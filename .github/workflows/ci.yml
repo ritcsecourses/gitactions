@@ -7,7 +7,7 @@ jobs:
     - uses: actions/checkout@v1
     - name: Run a one-line script
       run: echo Hello, cse msrit workshop
-    - name: Run a multi-line script with cse
+    - name: Run a multi-line script1 with cse
       run: |
         echo Add other actions2 to build,
         echo test, and deploy your1 project
